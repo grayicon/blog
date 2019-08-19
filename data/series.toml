@@ -1,4 +1,4 @@
 [[series]]
-name = "seriesname"
-img = "images/path"
-summary = "This is the simple summary of the series"
+name = "神经网络"
+img = "images/series/神经网络/AI.png"
+summary = "some intuitions and tricks about artificial neural network "
